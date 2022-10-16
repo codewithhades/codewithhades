@@ -1,3 +1,6 @@
 # Programa con Hades
 
-Bienvenido, bienvenida, al espacio :rocket: GitHub :rocket: donde encontrarás el código fuente de todos tus tutoriales del canal de Youtube [Programa Con Hades](https://www.youtube.com/channel/UC_02xjtoXAEWfTiHAMQxgmA)
+Bienvenido, bienvenida, a :fire: Programa con Hades :fire:
+
+Aquí encontrarás casos de uso para todos tus problemas relacionados con tecnologías backend documentados en habla hispana.
+
