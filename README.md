@@ -20,7 +20,7 @@
 
 ...y te doy la bienvenido a mi rincón de GitHub!
 
-:confounded: Como desarrollador backed me he enfrentado a numerosos problemas que requerían investigación, pero siempre pensé que hay demasiados trozos de código y falta de información ahí fuera!
+:confounded: Como desarrollador backend me he enfrentado a numerosos problemas que requerían investigación, pero siempre pensé que hay demasiados trozos de código y falta de información ahí fuera!
 
 :rocket: Aquí encontrarás ejemplos específicos, documentados y completamente funcionales de los escenarios de software más comunes relacionados con tecnologías backend, tal como
 
