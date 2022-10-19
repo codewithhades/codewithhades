@@ -11,8 +11,9 @@
 * [SpringBoot](https://github.com/codewithhades/spring-boot)
 * Quarkus
 
-:pray: I hope you find them useful in times of need
+:pray: I hope you find them useful in times of need, and if you want to support me in my mission to help our fellow backend please consider donating to this space
 
+May Java be with you!
 
 ---
 
@@ -27,4 +28,6 @@
 * [SpringBoot](https://github.com/codewithhades/spring-boot)
 * Quarkus
 
-:pray: Espero que te resulten útiles en tiempos de necesidad
+:pray: Espero que te resulten útiles en tiempos de necesidad, y si quieres ayudarme en mi misión de ayudar a la comunidad backend puedes considerar donar a este canal
+
+¡Que Java te acompañe!
