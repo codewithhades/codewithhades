@@ -11,9 +11,9 @@
 * [SpringBoot](https://github.com/codewithhades/spring-boot)
 * Quarkus
 
-:pray: I hope you find them useful in times of need, and if you want to support me in my mission to help our fellow backend please consider donating to this space
+:pray: I hope you find them useful in times of need, and if you want to support me in my mission to help our fellow backends please consider donating to this space
 
-May Java be with you!
+:coffee: May Java be with you!
 
 ---
 
@@ -30,4 +30,4 @@ May Java be with you!
 
 :pray: Espero que te resulten útiles en tiempos de necesidad, y si quieres ayudarme en mi misión de ayudar a la comunidad backend puedes considerar donar a este canal
 
-¡Que Java te acompañe!
+:coffee: ¡Que Java te acompañe!
