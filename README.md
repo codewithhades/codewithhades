@@ -11,6 +11,9 @@
 * [SpringBoot](https://github.com/codewithhades/spring-boot)
 * Quarkus
 
+:pray: I hope you find them useful in times of need
+
+
 ---
 
 ## :es: ¡Hola! Me llamo Hades...
@@ -23,3 +26,5 @@
 
 * [SpringBoot](https://github.com/codewithhades/spring-boot)
 * Quarkus
+
+:pray: Espero que te resulten útiles en tiempos de necesidad
