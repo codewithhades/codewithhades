@@ -25,7 +25,7 @@
 
 :rocket: Aquí encontrarás ejemplos específicos, documentados y completamente funcionales de los principales frameworks de Java, tal como
 
-* [SpringBoot](https://github.com/codewithhades/spring-boot)
+* [Spring Boot](https://github.com/codewithhades/spring-boot)
 * Quarkus
 
 :pray: Espero que te resulten útiles en tiempos de necesidad, y si quieres ayudarme en mi misión de ayudar a la comunidad Java puedes financiar este canal
