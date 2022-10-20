@@ -8,7 +8,7 @@
 
 :rocket: Here you will find specific, documented and fully working examples of the most common Java frameworks, such as
 
-* [SpringBoot](https://github.com/codewithhades/spring-boot)
+* [Spring Boot](https://github.com/codewithhades/spring-boot)
 * Quarkus
 
 :pray: I hope you find them useful in times of need, and if you want to support me in my mission to help our fellow Java developers please consider sponsoring this space
