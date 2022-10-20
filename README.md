@@ -28,6 +28,6 @@
 * [Spring Boot](https://github.com/codewithhades/spring-boot)
 * Quarkus
 
-:pray: Espero que te resulten útiles en tiempos de necesidad, y si quieres ayudarme en mi misión de ayudar a la comunidad Java puedes financiar este canal
+:pray: Espero que te resulten útiles en tiempos de necesidad, y si quieres ayudarme en mi misión de ayudar a la comunidad Java puedes considerar financiar este canal
 
 :coffee: ¡Que Java te acompañe!
