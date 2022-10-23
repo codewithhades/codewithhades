@@ -4,9 +4,9 @@
 
 ...and I welcome you to my GitHub's corner!
 
-:confounded: As a Java developer I have faced many problems that required help and I always say that snippets of code without context is not the way of showing how it is done!
+:confounded: As a Java developer I have faced many problems that required research and many times all I could find were snippets of code without any context or documentation
 
-:rocket: Here you will find specific, documented and fully working examples of the most common Java frameworks, such as
+:rocket: This is why I bring you specific, documented and fully working examples of the most common Java frameworks, such as
 
 * [Spring Boot](https://github.com/codewithhades/spring-boot)
 * Quarkus
@@ -21,9 +21,9 @@
 
 ...¡y te doy la bienvenida a mi rincón de GitHub!
 
-:confounded: Como desarrollador Java me he enfrentado a numerosos problemas que requerían ayuda y siempre digo que trozos de código sin contexto alguno ¡no es la forma de enseñar cómo se hace!
+:confounded: Como desarrollador Java me he enfrentado a numerosos problemas que requerían investigación y muchas veces todo lo que encontré fueron trozos de código sin contexto ni documentación
 
-:rocket: Aquí encontrarás ejemplos específicos, documentados y completamente funcionales de los principales frameworks de Java, tal como
+:rocket: Esta es la razón por la que traigo ejemplos específicos, documentados y completamente funcionales de los principales frameworks de Java, tal como
 
 * [Spring Boot](https://github.com/codewithhades/spring-boot)
 * Quarkus
