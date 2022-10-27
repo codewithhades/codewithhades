@@ -6,7 +6,7 @@
 
 :confounded: As a Java developer I have faced many problems that required research and many times all I could find were snippets of code without any context or documentation.
 
-:rocket: This is why I bring you specific, documented and fully working examples with tests of the most common Java scenarios, such as
+:rocket: This is why I bring you specific, documented and fully working examples of the most common Java scenarios, such as
 
 * Spring Boot
     * [Basic setup](https://github.com/codewithhades/spring-boot-basic-setup)
@@ -26,7 +26,7 @@
 
 :confounded: Como desarrollador Java me he enfrentado a numerosos problemas que requerían investigación y muchas veces todo lo que encontré fueron trozos de código sin contexto ni documentación.
 
-:rocket: Esta es la razón por la que traigo ejemplos específicos con tests, documentados y completamente funcionales de los principales escenarios con Java, tal como
+:rocket: Esta es la razón por la que traigo ejemplos específicos, documentados y completamente funcionales de los principales escenarios con Java, tal como
 
 * Spring Boot
   * [Configuración básica](https://github.com/codewithhades/spring-boot-basic-setup)
