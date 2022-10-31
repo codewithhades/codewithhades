@@ -11,6 +11,7 @@
 * Spring Boot
     * [Basic setup](https://github.com/codewithhades/spring-boot-basic-setup)
     * [A simple API](https://github.com/codewithhades/spring-boot-api)
+    * [Actuators](https://github.com/codewithhades/spring-boot-actuators)
 * Quarkus
     * On the way...
 
@@ -31,6 +32,7 @@
 * Spring Boot
   * [Configuración básica](https://github.com/codewithhades/spring-boot-basic-setup)
   * [Una simple API](https://github.com/codewithhades/spring-boot-api)
+  * [Actuadores](https://github.com/codewithhades/spring-boot-actuators)
 * Quarkus
   * En camino...
 
