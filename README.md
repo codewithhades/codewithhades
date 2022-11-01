@@ -9,7 +9,7 @@
 * Spring Boot
     * [How to set it up with the basics](https://github.com/codewithhades/spring-boot-basic-setup)
     * [Deploy a simple REST API](https://github.com/codewithhades/spring-boot-rest-api)
-    * [Actuators for metrics and health checks](https://github.com/codewithhades/spring-boot-actuators)
+    * [Actuator for metrics and health checks](https://github.com/codewithhades/spring-boot-actuator)
 * Quarkus
     * _Under construction_
 
