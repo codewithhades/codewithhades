@@ -10,6 +10,7 @@
     * [How to set it up with the basics](https://github.com/codewithhades/spring-boot-basic-setup)
     * [Deploy a simple REST API](https://github.com/codewithhades/spring-boot-rest-api)
     * [Actuator for metrics and health checks](https://github.com/codewithhades/spring-boot-actuator)
+    * [How to dockerize a Spring Boot application](https://github.com/codewithhades/spring-boot-docker)
 * Quarkus
     * _Under construction_
 
