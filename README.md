@@ -13,7 +13,7 @@
   * [How to dockerize a Spring Boot application](https://github.com/codewithhades/spring-boot-docker)
   * [How to configure profiles](https://github.com/codewithhades/spring-boot-profiles)
 * Quarkus
-  * [How to set it up with the basics](https://github.com/codewithhades/quarkus-basic-setup)
+  * [Deploy a simple Reactive REST API](https://github.com/codewithhades/quarkus-reactive-rest-api)
 
 :pray: I hope you find them useful in times of need, and if you want to support me in my mission to help our fellow Java developers please consider sponsoring this space.
 
