@@ -7,13 +7,13 @@
 :rocket: This is why I bring you specific, documented and fully working examples of the most common Java scenarios
 
 * Spring Boot
-    * [How to set it up with the basics](https://github.com/codewithhades/spring-boot-basic-setup)
-    * [Deploy a simple REST API](https://github.com/codewithhades/spring-boot-rest-api)
-    * [Actuator for metrics and health checks](https://github.com/codewithhades/spring-boot-actuator)
-    * [How to dockerize a Spring Boot application](https://github.com/codewithhades/spring-boot-docker)
-    * [How to configure profiles](https://github.com/codewithhades/spring-boot-profiles)
+  * [How to set it up with the basics](https://github.com/codewithhades/spring-boot-basic-setup)
+  * [Deploy a simple REST API](https://github.com/codewithhades/spring-boot-rest-api)
+  * [Actuator for metrics and health checks](https://github.com/codewithhades/spring-boot-actuator)
+  * [How to dockerize a Spring Boot application](https://github.com/codewithhades/spring-boot-docker)
+  * [How to configure profiles](https://github.com/codewithhades/spring-boot-profiles)
 * Quarkus
-    * _Under construction_
+  * [How to set it up with the basics](https://github.com/codewithhades/quarkus-basic-setup)
 
 :pray: I hope you find them useful in times of need, and if you want to support me in my mission to help our fellow Java developers please consider sponsoring this space.
 
