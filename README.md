@@ -16,6 +16,6 @@
   * [How to set it up with the basics](https://github.com/codewithhades/quarkus-basic-setup)
   * [Deploy a simple REST API](https://github.com/codewithhades/quarkus-rest-api)
 
-:pray: I hope you find them useful in times of need, and if you want to support me in my mission to help our fellow Java developers please consider sponsoring this space!
+:pray: I hope you find them useful in times of need, and if you want to support me in my mission to help our fellow Java developers please consider starring and sponsoring this space!
 
 :coffee: May Java be with you!
