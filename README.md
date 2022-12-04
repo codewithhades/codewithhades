@@ -15,6 +15,7 @@
 * Quarkus
   * [How to set it up with the basics](https://github.com/codewithhades/quarkus-basic-setup)
   * [Deploy a simple REST API](https://github.com/codewithhades/quarkus-rest-api)
+  * [How to dockerize a Quarkus application](https://github.com/codewithhades/quarkus-docker)
   * [Native build with Docker (no GraalVM needed)](https://github.com/codewithhades/quarkus-native-docker-build)
 
 :pray: I hope you find them useful in times of need, and if you want to support me in my mission to help our fellow Java developers please consider starring and sponsoring this space!
